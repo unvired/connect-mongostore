@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "mongodb": "2.2.19",
-    "lodash": "~2.4"
+    "lodash": "4.17.4"
   },
   "directories": {
     "lib": "./lib"
